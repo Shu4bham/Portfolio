@@ -2,9 +2,9 @@
   Portfolio Website - v2.0<br/>
   <a href="https://shu4bham.vercel.app/" target="_blank">Shu4bham.tech</a>
 </h2>
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
-</div>
+</div> -->
 
 <br/>
 
