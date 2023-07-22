@@ -30,7 +30,7 @@ function Projects() {
               title="Portfolio"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/shu4bham/Portfolio"
-              demoLink="https://shu4bham.vercel.app/"
+              demoLink="https://shu4bham.live//"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -40,7 +40,7 @@ function Projects() {
               title="Emoji Hub"
               description="Emoji hub Emoji Hub is a web application that allows users to conveniently browse and explore a wide range of emojis. With a user-friendly interface, it provides an interactive way to discover and utilize emojis for various purposes."
               ghLink="https://github.com/Shu4bham/Emoji-Hub-web-app.git"
-              demoLink="https://shu4bham.github.io/Emoji-Hub-web-app/"
+              demoLink="http://emojihub.me/"
             />
           </Col>
 
@@ -51,7 +51,7 @@ function Projects() {
               title="Editor.io"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
               ghLink="https://github.com/shu4bham/Editor.io"
-              demoLink="https://editor.shu4bham.tech/"              
+              demoLink="https://shu4bham.live/"              
             />
           </Col> */}
 
@@ -62,7 +62,7 @@ function Projects() {
               title="Plant AI"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
               ghLink="https://github.com/shu4bham/Plant_AI"
-              demoLink="https://shu4bham.herokuapp.com/"
+              demoLink="https://shu4bham.live/"
             />
           </Col> */}
 
@@ -85,7 +85,7 @@ function Projects() {
               description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
               ghLink="https://github.com/shu4bham/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.shu4bham.tech/"      <--------Please include a demo link here 
+              // demoLink="https://shu4bham.live/"      <--------Please include a demo link here 
             />
           </Col> */}
         </Row>
