@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 // import leaf from "../../Assets/Projects/leaf.png";
 // import emotion from "../../Assets/Projects/emotion.png";
-// import editor from "../../Assets/Projects/codeEditor.png";
+import tictactoe from "../../Assets/Projects/tic-tac-toe.png";
 import emojihub from "../../Assets/Projects/emoji-hub.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
@@ -44,16 +44,16 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={tictactoe}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/shu4bham/Editor.io"
-              demoLink="https://shu4bham.live/"              
+              title="TIC-TAC-TOE"
+              description="TIC-TAC-TOE is a beloved and strategic two-player game developed using HTML, CSS, and JavaScript. This GitHub repository houses the source code for the digital rendition of the classic game, providing a delightful gaming experience for users to enjoy with friends and family."
+              ghLink="https://github.com/shu4bham/TIC-TAC-TOE"
+              demoLink="https://shu4bham-tic-tac-toe.vercel.app/"              
             />
-          </Col> */}
+          </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
