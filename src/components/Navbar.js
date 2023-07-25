@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://www.blogger.com/blog/posts/9177044033990612757?hl=en-GB"
+                href="https://shu4bham.hashnode.dev/"
                 target="_blank"
                 rel="noreferrer"
               >
