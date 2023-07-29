@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Shopify"
               description="Shopify is a stylish and contemporary clothing website built with HTML, CSS, and JavaScript, aimed at delivering an immersive shopping experience to fashion enthusiasts. This project showcases a modern design with sleek aesthetics and user-friendly navigation, ensuring seamless accessibility on various mobile devices."
-              ghLink="https://github.com/shu4bham/Shpoify"
+              ghLink="https://github.com/shu4bham/Shopify"
               demoLink="https://shu4bham-shopify.vercel.app/"
             />
           </Col>
