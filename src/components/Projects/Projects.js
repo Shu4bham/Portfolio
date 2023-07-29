@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import GPA from "../../Assets/Projects/GPA-calc.png";
 import shopify from "../../Assets/Projects/shopify.png";
+import magma from "../../Assets/Projects/magma.png";
 import tictactoe from "../../Assets/Projects/tic-tac-toe.png";
 import emojihub from "../../Assets/Projects/emoji-hub.png";
 import suicide from "../../Assets/Projects/suicide.png";
@@ -29,6 +30,16 @@ function Projects() {
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js."
               ghLink="https://github.com/shu4bham/Portfolio"
               demoLink="https://shu4bham.live//"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={magma}
+              isBlog={false}
+              title="Magma Clone"
+              description="This is clone of the landing page of Thisismagma. Magma is a groundbreaking platform that integrates an interactive 3D model with blockchain layers, enabling collaboration between stakeholders in a secure, agile, and robust digital environment. It is a Web3 platform for all real estate stakeholders, which provides users with the ability to manage interactions between physical and digital assets. "
+              ghLink="https://github.com/shu4bham/Magma"
+              demoLink="https://magma-dtt.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
