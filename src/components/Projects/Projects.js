@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import GPA from "../../Assets/Projects/GPA-calc.png";
-// import emotion from "../../Assets/Projects/emotion.png";
+import shopify from "../../Assets/Projects/shopify.png";
 import tictactoe from "../../Assets/Projects/tic-tac-toe.png";
 import emojihub from "../../Assets/Projects/emoji-hub.png";
 import suicide from "../../Assets/Projects/suicide.png";
@@ -31,7 +31,16 @@ function Projects() {
               demoLink="https://shu4bham.live//"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={shopify}
+              isBlog={false}
+              title="Shopify"
+              description="Shopify is a stylish and contemporary clothing website built with HTML, CSS, and JavaScript, aimed at delivering an immersive shopping experience to fashion enthusiasts. This project showcases a modern design with sleek aesthetics and user-friendly navigation, ensuring seamless accessibility on various mobile devices."
+              ghLink="https://github.com/shu4bham/Shpoify"
+              demoLink="https://shu4bham-shopify.vercel.app/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={GPA}
