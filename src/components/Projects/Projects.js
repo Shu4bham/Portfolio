@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import GPA from "../../Assets/Projects/GPA-calc.png";
 import shopify from "../../Assets/Projects/shopify.png";
 import magma from "../../Assets/Projects/magma.png";
+import magma from "../../Assets/Projects/emojicrypt.png";
 import tictactoe from "../../Assets/Projects/tic-tac-toe.png";
 import emojihub from "../../Assets/Projects/emoji-hub.png";
 import suicide from "../../Assets/Projects/suicide.png";
@@ -60,6 +61,16 @@ function Projects() {
               description="GPA Calculator is a web application built using HTML, CSS, and JavaScript that allows users to calculate their Grade Point Average (GPA) based on the grades they received and the credits assigned to each course. It offers a user-friendly interface where users can input the course name, grade received, and course credits for multiple courses across various semesters."
               ghLink="https://github.com/shu4bham/GPA-Calculator"
               demoLink="https://gpa-calculator-shu4bham.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={emojicrypt}
+              isBlog={false}
+              title="Emojicrypt"
+              description="A web-based project using HTML, CSS, and JavaScript that encrypts text into emoji representations and decrypts encrypted emojis back into text. Protect your messages with fun and secure emoji encryption!"
+              ghLink="https://github.com/shu4bham/Emojicrypt"
+              demoLink="https://emojicrypt.vercel.app/"
             />
           </Col>
 
