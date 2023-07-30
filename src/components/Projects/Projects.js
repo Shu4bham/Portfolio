@@ -49,7 +49,7 @@ function Projects() {
               imgPath={shopify}
               isBlog={false}
               title="Shopify"
-              description="Welcome to FlixFlow, where movie tracking gets a whole lot funkier! Keep the rhythm of your movie marathon with MovieWatchr, a groovy tool to log all your watched flicks in style.Show off your funky taste with FunkyFlix Ratings, shake it up, and rate movies according to your vibe. It's all about expressing yourself!"
+              description="Shopify is a stylish and contemporary clothing website built with HTML, CSS, and JavaScript, aimed at delivering an immersive shopping experience to fashion enthusiasts. This project showcases a modern design with sleek aesthetics and user-friendly navigation, ensuring seamless accessibility on various mobile devices."
               ghLink="https://github.com/shu4bham/Shopify"
               demoLink="https://shu4bham-shopify.vercel.app/"
             />
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={flixflow}
               isBlog={false}
               title="Flix-flow"
-              description="Shopify is a stylish and contemporary clothing website built with HTML, CSS, and JavaScript, aimed at delivering an immersive shopping experience to fashion enthusiasts. This project showcases a modern design with sleek aesthetics and user-friendly navigation, ensuring seamless accessibility on various mobile devices."
+              description="Welcome to FlixFlow, where movie tracking gets a whole lot funkier! Keep the rhythm of your movie marathon with MovieWatchr, a groovy tool to log all your watched flicks in style.Show off your funky taste with FunkyFlix Ratings, shake it up, and rate movies according to your vibe. It's all about expressing yourself!"
               ghLink="https://github.com/shu4bham/Flix-flow"
               demoLink="https://flix-flow.vercel.app/"
             />
