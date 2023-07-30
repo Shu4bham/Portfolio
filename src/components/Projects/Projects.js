@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import GPA from "../../Assets/Projects/GPA-calc.png";
 import shopify from "../../Assets/Projects/shopify.png";
 import magma from "../../Assets/Projects/magma.png";
-import magma from "../../Assets/Projects/emojicrypt.png";
+import emojicrypt from "../../Assets/Projects/emojicrypt.png";
 import flixflow from "../../Assets/Projects/flix-flow.png";
 import tictactoe from "../../Assets/Projects/tic-tac-toe.png";
 import emojihub from "../../Assets/Projects/emoji-hub.png";
